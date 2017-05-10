@@ -1,0 +1,60 @@
+Message delivered! (The machine is being repaired)2017-05-02 23:38:55.131117
+        Message delivered! (The machine works)         2017-05-02 23:39:30.267320
+        Message delivered! (The machine works)         2017-05-02 23:39:30.555452
+Message delivered! (The machine is being repaired)2017-05-02 23:39:31.068937
+Message delivered! (The machine is being repaired)2017-05-02 23:39:31.229060
+Message delivered! (The machine is being repaired)2017-05-02 23:39:31.389458
+  Message delivered! (The machine does not work)  2017-05-02 23:39:31.949835
+  Message delivered! (The machine does not work)  2017-05-02 23:39:32.093595
+  Message delivered! (The machine does not work)  2017-05-02 23:39:32.253319
+  Message delivered! (The machine does not work)  2017-05-02 23:39:32.399637
+Message delivered! (The machine is being repaired)2017-05-02 23:39:32.783848
+Message delivered! (The machine is being repaired)2017-05-02 23:39:32.943414
+Message delivered! (The machine is being repaired)2017-05-02 23:39:33.103319
+Message delivered! (The machine is being repaired)2017-05-02 23:39:33.263664
+        Message delivered! (The machine works)         2017-05-02 23:39:33.857318
+        Message delivered! (The machine works)         2017-05-02 23:39:34.017625
+        Message delivered! (The machine works)         2017-05-02 23:39:34.177182
+        Message delivered! (The machine works)         2017-05-02 23:39:34.320975
+Message delivered! (The machine is being repaired)2017-05-02 23:39:34.753741
+Message delivered! (The machine is being repaired)2017-05-02 23:39:34.913859
+Message delivered! (The machine is being repaired)2017-05-02 23:39:35.089799
+  Message delivered! (The machine does not work)  2017-05-02 23:39:35.523021
+  Message delivered! (The machine does not work)  2017-05-02 23:39:35.683549
+  Message delivered! (The machine does not work)  2017-05-02 23:39:35.843881
+        Message delivered! (The machine works)         2017-05-02 23:40:10.107903
+        Message delivered! (The machine works)         2017-05-02 23:40:11.018853
+        Message delivered! (The machine works)         2017-05-02 23:40:11.483587
+        Message delivered! (The machine works)         2017-05-02 23:40:12.221318
+        Message delivered! (The machine works)         2017-05-02 23:40:12.381860
+        Message delivered! (The machine works)         2017-05-04 06:02:01.123221
+  Message delivered! (The machine does not work)  2017-05-04 06:02:02.853461
+  Message delivered! (The machine does not work)  2017-05-04 06:02:26.133200
+        Message delivered! (The machine works)         2017-05-04 06:02:27.462803
+  Message delivered! (The machine does not work)  2017-05-04 06:02:28.569276
+        Message delivered! (The machine works)         2017-05-04 06:04:22.771469
+  Message delivered! (The machine does not work)  2017-05-04 06:04:29.325552
+        Message delivered! (The machine works)         2017-05-04 06:04:32.457082
+  Message delivered! (The machine does not work)  2017-05-04 06:04:33.963435
+Message delivered! (The machine is being repaired)2017-05-04 06:04:35.861121
+  Message delivered! (The machine does not work)  2017-05-04 06:04:37.279121
+        Message delivered! (The machine works)         2017-05-04 06:04:39.128977
+        Message delivered! (The machine works)         2017-05-04 06:05:35.426913
+  Message delivered! (The machine does not work)  2017-05-04 06:05:36.229390
+Message delivered! (The machine is being repaired)2017-05-04 06:05:37.669113
+        Message delivered! (The machine works)         2017-05-04 06:05:38.903101
+  Message delivered! (The machine does not work)  2017-05-04 06:05:40.377130
+        Message delivered! (The machine works)         2017-05-04 06:05:52.121256
+  Message delivered! (The machine does not work)  2017-05-04 06:06:58.805667
+        Message delivered! (The machine works)         2017-05-04 06:07:00.279064
+  Message delivered! (The machine does not work)  2017-05-04 06:07:02.491549
+        Message delivered! (The machine works)         2017-05-04 06:07:03.709069
+        Message delivered! (The machine works)         2017-05-10 19:37:47.218765
+  Message delivered! (The machine does not work)  2017-05-10 19:37:59.970477
+        Message delivered! (The machine works)         2017-05-10 19:38:22.626564
+        Message delivered! (The machine works)         2017-05-10 19:40:41.238733
+  Message delivered! (The machine does not work)  2017-05-10 19:40:46.244763
+Message delivered! (The machine is being repaired)2017-05-10 19:40:48.566950
+        Message delivered! (The machine works)         2017-05-10 19:40:50.722621
+        Message delivered! (The machine works)         2017-05-10 19:41:09.476307
+        Message delivered! (The machine works)         2017-05-10 19:41:09.636693
